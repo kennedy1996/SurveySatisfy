@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pesquisa de Satisfação</string>
+    <string name="question_survey">Como foi hoje?</string>
+    <string name="five_stars">Muito Bom</string>
+    <string name="four_stars">Bom</string>
+    <string name="three_stars">Normal</string>
+    <string name="two_stars">Ruim</string>
+    <string name="one_stars">Péssimo</string>
+</resources>

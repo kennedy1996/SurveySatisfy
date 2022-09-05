@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Survey Satisfy</string>
+    <string name="question_survey">How was today?</string>
+    <string name="five_stars">Very Good</string>
+    <string name="four_stars">Good</string>
+    <string name="three_stars">Ok</string>
+    <string name="two_stars">Bad</string>
+    <string name="one_stars">Worst</string>
+</resources>
